@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Is_my_red_same_with_your_red", "Is_my_red_same_with_your_red\Is_my_red_same_with_your_red.vcxproj", "{BDAC9C0B-08CE-4163-877F-648CFB61B743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAC9C0B-08CE-4163-877F-648CFB61B743}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDAC9C0B-08CE-4163-877F-648CFB61B743}.Debug|Win32.Build.0 = Debug|Win32
+		{BDAC9C0B-08CE-4163-877F-648CFB61B743}.Release|Win32.ActiveCfg = Release|Win32
+		{BDAC9C0B-08CE-4163-877F-648CFB61B743}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
